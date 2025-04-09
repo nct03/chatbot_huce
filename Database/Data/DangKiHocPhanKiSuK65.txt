@@ -1,0 +1,69 @@
+Danh sách các sinh viên thuộc Khoa xây dựng dân dụng và công nghiệp:
+Trần Văn Hưng
+STT: 115
+Mã ký: S8966S
+Lớp: 65XDCI, 2407XDCI
+Nguyễn Đức Khánh
+STT: 116
+Mã ký: S105165
+Lớp: 65XD9, 2407XD4
+Lê Duy
+STT: 117
+Mã ký: S104565
+Lớp: 65XD9, 2407XD4
+Chu Văn Khánh
+STT: 118
+Mã ký: S103965
+Lớp: 65XD4, 2407XD3
+Nguyễn Tùng
+STT: 119
+Mã ký: S1528265
+Lớp: 65XDI12, 2407XDI
+Nguyễn Tiến Lực
+STT: 120
+Mã ký: S1530865
+Lớp: 65XDI13, 2407XDI
+Nguyễn Đức Mạnh
+STT: 121
+Mã ký: S1531765
+Lớp: 65XD4, 2407XD3
+Đặng Đức Mạnh
+STT: 122
+Mã ký: S128565
+Lớp: 65XD8, 2407XDCI
+Nguyễn Hoài Thuận
+STT: 123
+Mã ký: S146265
+Lớp: 65XD4, 2407XD3
+Nguyễn Chí Nghĩa
+STT: 124
+Mã ký: S194865
+Lớp: 65XD9, 2407XD4
+Nguyễn Văn Tiến
+STT: 125
+Mã ký: S157465
+Lớp: 65XDCI, 2407XDCI
+Đinh Tiến Phúc
+STT: 126
+Mã ký: S194865
+Lớp: 65XD4, 2407XD3
+Nguyễn Đình Tiến
+STT: 127
+Mã ký: S198065
+Lớp: 65XD3, 2407XD2
+Đặng Văn Tiến
+STT: 128
+Mã ký: S197465
+Lớp: 65XD9, 2407XD4
+Hoàng Thanh Tĩnh
+STT: 129
+Mã ký: S199365
+Lớp: 65XD11, 2407XDI
+Nguyễn Trường
+STT: 130
+Mã ký: S208365
+Lớp: 65XD6, 2407XD3
+Đỉnh Trọng Tuân
+STT: 131
+Mã ký: 5213065
+Lớp: 65XDI, 2407XDI

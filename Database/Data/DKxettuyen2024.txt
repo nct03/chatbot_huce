@@ -1,0 +1,119 @@
+bộ giáo dục và đào tạo
+trường đại học xây dựng hà nội
+số 62 tbđhxdhntsđh
+cộng hòa xã hội chủ nghĩa việt nam
+độc lập tự do hạnh phúc
+hà nội ngày ...
+tháng 8 năm 2024
+thông báo
+chỉ tiêu và đối tượng xét tuyển vào các chương trình đào tạo hội nhập và quốc tế.
+điểm chuẩn xét tuyển có tính điểm ưu tiên khu vực và đối tượng theo quy chế tuyển sinh năm
+điều kiện đăng ký xét tuyển
+ngưỡng
+stt chương trình đào tạo kỹ sư cấp thpt
+a00 a01: 24
+d01 d07: việt pháp pfiev ngành kỹ thuật xây dựng.
+kết quả thi: a00 a01: 20
+cơ sở hạ tầng giao thông: 120
+kỹ thuật đô thị: 22
+kỹ thuật công trình thủy: 50
+vật liệu xây dựng: 50
+kết quả học tập cấp thpt d01 d07: 22.5
+học bạ
+chương trình đào tạo liên kết với đại học mississippi hoa kỳ
+ngành kỹ thuật xây dựng: 22
+xét tuyển: x01 x03 kết hợp: x05
+kết quả thi: k00: 50
+kết quả học tập cấp thpt d01 d07: 25.5
+học bạ
+chương trình đào tạo liên kết với đại học mississippi hoa kỳ
+ngành khoa học máy tính: 23.5
+xét tuyển: x01 x03 kết hợp: x05
+kết quả thi: k00: 50
+vui lòng chú ý theo dõi các thông tin chi tiết.
+dưới đây là văn bản đã được làm sạch:
+chương trình đào tạo
+liệu: điểm học bạ
+kết quả học tập: a00 a01
+cấp thpt: d07 d24 24.75
+học bạ: d29
+chương trình đào tạo
+kết quả thi:
+chuyên ngành: xây dựng
+cấp thpt: d07 d24 22.5
+dân dụng và công nghiệp
+kết quả thi:
+chuyên ngành: kỹ thuật
+kết quả học tập: a00 a01
+cấp thpt: d07 d24 24.75
+học bạ: d29
+chương trình đào tạo
+kết quả thi: a00 a01 2145
+chuyên ngành: hệ thống kỹ thuật trong công trình
+cấp thpt: d01 d07
+anh ngữ: xét tuyển x01 x03 kết hợp x05
+kết quả thi:
+chuyên ngành: xây dựng
+cấp thpt: d01 d07
+kết quả học tập: 22
+văn bản đã được làm sạch các ký tự không liên quan và thông tin không cần thiết.
+chương trình đào tạo
+ngành: kỹ thuật cấp thoát nước
+chỉ tiêu: 50
+xét tuyển: a00 a01 b00 d07
+ngành: kinh tế xây dựng
+chỉ tiêu: 50
+xét tuyển: a00 a01 d00 d07
+ngành: kiến trúc
+chỉ tiêu: 50
+xét tuyển: v00 v02
+thời gian và phương thức đăng ký
+2.thời gian: từ ngày 27/8 đến 17:00 ngày 29/8/2024
+2.phương thức đăng ký: đăng ký tại trường trong ngày nhập học trực tiếp
+xét tuyển
+mỗi sinh viên được đăng ký không quá 04 nguyện vọng.
+nhà trường sẽ xét tuyển căn cứ vào chỉ tiêu nguyện vọng và điểm xét tuyển theo tổ hợp điểm cao nhất của thí sinh.
+thông tin liên hệ
+chương trình đào tạo: kỹ sư việt pháp peiev ngành kỹ thuật xây dựng
+hotline: 0903 290 202 0982 419 265
+email: pñevhuce.edu.vn
+chương trình đào tạo liên kết với đh mississippi hoa kỳ
+hotline: 0983 280 775
+email: dtgthuce.edu.vn
+chương trình đào tạo ngành kiến trúc anh ngữ
+hotline: 0913 541 639
+email: ktqghhuce.edu.vn
+chương trình đào tạo ngành kiến trúc pháp ngữ
+hotline: 0913 541 639
+email: ktqhhuce.edu.vn
+chương trình đào tạo chuyên ngành xây dựng cầu đường anh ngữ
+hotline: 0981 564 716
+email: cauduong2huce.edu.vn
+chương trình đào tạo chuyên ngành xây dựng dân dụng và công nghiệp anh ngữ
+hotline: 0934 381 295
+email: xaydunghuce.edu.vn
+chương trình đào tạo chuyên ngành xây dựng dân dụng và công nghiệp pháp ngữ
+hotline: 0934 381 295
+email: xaydunghuce.edu.vn
+chương trình đào tạo ngành kỹ thuật cấp thoát nước anh ngữ
+hotline: 0916 511 818
+email: moitruonghuce.edu.vn
+chương trình đào tạo chuyên ngành hệ thống kỹ thuật trong công trình anh ngữ
+hotline: 0963 504 248
+email: moitruonghuce.edu.vn
+chương trình đào tạo ngành kinh tế xây dựng anh ngữ
+hotline: 0913 213 513 / 0337 690 048
+email: kinhtequanly2huce.edu.vn
+bộ phận tuyển sinh đại học phòng truyền thông và tuyển sinh trường đại học xây dựng hà nội
+p.304 nhà ai trường đại học xây dựng hà nội
+điện thoại: 024 3869 4711
+hotline: 0869 071 382
+email: tuyensinhdhhuce.edu.vn
+nơi nhận:
+bgh để báo cáo
+trang thông tin tuyển sinh
+lưu vt p.ttts
+phó hiệu trưởng
+pos.
+ts.
+ứn ơuâm úuở

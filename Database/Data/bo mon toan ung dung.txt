@@ -1,0 +1,39 @@
+Bộ môn Toán ứng dụng
+Lịch sử bộ môn: 
+Ngày thành lập: 10 - 01-2005 theo Quyết định số /2005/QĐ-TCCB của Hiệu trưởng Trường Đại học Xây dựng
+Tiền thân: Bộ môn Toán học Ứng dụng được tách ra từ Bộ môn Toán học. Năm 2001 Khoa Công nghệ Thông tin được thành lập, Bộ môn Toán học đảm nhiệm thêm một số môn thiên về ứng dụng dạy cho sinh viên trong khoa
+ Đầu năm 2005, Nhà trường quyết định tách Bộ môn Toán học thành 2 bộ môn: Bộ môn Toán học và Bộ môn Toán học Ứng dụng . Bộ môn Toán học Ứng dụng đảm nhận việc dạy môn Xác suất Thống kê và Xác suất Tống kê kỹ thuật cho sinh viên toàn trường và dạy các môn Toán ứng dụng cho sinh viên Khoa Công nghệ Thông tin: Toán học Rời rạc, Lý thuyết Tối ưu và Đồ thị, Toán học Tính toán, Xác suất Thống kê, Các mô hình Tính toán, Đại số hiện đại Ứng dụng). Bên cạnh đó bộ môn còn dạy một số môn Toán cho các ngành mới (Logistics và Logistics đô thi).
+Đội ngũ cán bộ giảng dạy của bộ môn đều được đào tạo chuyên ngành Toán học và Toán tin ứng dụng tại các trường Đại Học Sư phạm, Đại học Khoa học Tự nhiên Hà Nội, với chuyên môn tốt, tâm huyết với nghề, gần gũi nhiệt tình với sinh viên. Các thầy cô trong bộ môn trang bị cho sinh viên nền tảng toán tốt, kỹ năng vận dụng các mô hình toán để giải quyết các bài toán trong nhiều lĩnh vực: công nghệ Thông tin, Khoa học máy tính,…
+Trong những năm gần đây, trước sự phát triển mạnh mẽ của Công nghệ Thông tin, khoa CNTT Trường Đại học Xây dựng cũng đang phát triển mạnh cả về số lượng và chất lượng. Chính vì  thế mà các giảng viên bộ môn Toán Ứng dụng cũng đã và đang liên tục trau dồi kiến thức chuyên môn, cập nhật bài giảng nhằm đáp ứng với những kiến thức mới phục vụ giảng dạy và nghiên cứu khoa học. Bộ môn đã xây dựng được các phần mềm riêng cho việc giảng dạy và đánh giá sinh kết quả học tập của sinh viên. Các Thầy cô trong bộ môn tham gia hướng dẫn sinh viên NCKH, tham gia Hướng dẫn đồ án tốt nghiệp cho sinh viên ngành KHMT.
+Lãnh đạo Bộ môn qua các thời kỳ:
+2005-2009
+GVC.ThS Thái Bình Dương Trưởng Bộ môn
+GV.TS Bùi Trọng Kiên (từ 01-2005 đến 09-2005) Phó Trưởng Bộ môn
+GVC.ThS Bùi Quốc Thắng (từ 09-2005 đến 06-2009) Phó Trưởng Bộ môn
+2009-3/2015
+GVC.ThS Bùi Quốc Thắng Trưởng Bộ môn
+GV.ThS Nguyễn Thị Ngọc Phó Trưởng Bộ môn
+4/2015- nay	
+GVC.ThS Nguyễn Thị Ngọc	Trưởng Bộ môn
+GV.ThS Nguyễn Anh Sơn Phó Trưởng Bộ môn
+Các Môn học đảm nhiệm:
+1. Xác suất - Thống kê (dạy cho sinh viên toàn trường, trừ khoa Kiến trúc);
+2. Phương pháp tính (trước năm học 2009-2010 dạy cho sinh viên toàn trường, trừ khoa Kiến trúc);
+3. Logic học đại cương (dạy cho sinh viên Khoa CNTT, trước năm học; 2009-2010 còn cho SV các khoa Môi trường và Kinh tế XD);
+4. Toán học rời rạc (dạy cho sinh viên Khoa CNTT);
+5. Lý thuyết tối ưu và đồ thị (dạy cho sinh viên Khoa CNTT);
+6. Automat và ngôn ngữ hình thức (dạy cho sinh viên Khoa CNTT);
+7. Toán học tính toán (dạy cho sinh viên Khoa CNTT);
+8. Xác suất thống kê ứng dụng (trước năm học 2009-2010 dạy cho sinh viên Khoa CNTT);
+9. Biến đổi tích phân và Phương trình đạo hàm riêng  (trước năm học 2009-2010 dạy cho sinh viên Khoa CNTT);
+10. Cơ sở Điều khiển học kỹ thuật  (dạy cho sinh viên Khoa CNTT);
+11. Các môn toán cho sinh viên khối chất lượng cao (do các thày Mai Văn Được, Bùi Quốc Thắng, Doãn Tam Hoè đảm nhiệm).
+Bộ môn Toán Ứng Dụng hiện nay có tổng số 8 cán bộ, đảm nhiệm công tác đào tạo và nghiên cứu tại Bộ môn. Đội ngũ cán bộ của Bộ môn đều có trình độ đại học trở lên, bao gồm : 
+PGS: 1
+Tiến sỹ: 1
+Thạc sỹ: 7
+Giảng viên chính: 1
+Giảng viên: 8
+Địa chỉ bộ môn:
+Phòng 409 nhà A1, Trường Đại học Xây dựng Hà Nội
+Email: bm.tud@huce.edu.vn

@@ -1,0 +1,100 @@
+GIỚI THIỆU CHUNG
+Bộ môn Công nghệ Phần mềm thành lập ngày: 21/6/2001 (Theo Quyết định số 497/2001/QĐ-TCCB của Hiệu trưởng về việc thành lập bộ môn Công nghệ phần mềm, khoa Công nghệ Thông tin).
+Bộ môn Công nghệ phần mềm là một trong những bộ môn nòng cốt của Khoa Công nghệ thông tin. Bộ môn chịu trách nhiệm giảng dạy các môn học cơ bản của ngành CNTT và đào tạo chuyên ngành Công nghệ phần mềm bậc trên đại học, bậc đại học hệ chính quy thuộc khoa CNTT cho sinh viên Khoa CNTT. Bộ môn chịu trách nhiệm nghiên cứu, áp dụng, phát triển các kỹ thuật và công nghệ chuyên sâu về lĩnh vực Công nghệ phần mềm.
+Giảng dạy các môn học:
+1Tin học đại cương
+2Nhập môn cơ sở dữ liệu
+3Cơ sở dữ liệu nâng cao
+4Chuyên đề giới thiệu ngành CNTT
+5Cấu trúc dữ liệu và thuật toán 1&2
+6Công nghệ phần mềm
+7Đồ án Công nghệ phần mềm
+8Phân tích và thiết kế hệ thống thông tin
+9Đồ án phân tích và thiết kế hệ thống thông tin
+10Hệ quản trị cơ sở dữ liệu
+11Đồ án hệ quản trị cơ sở dữ liệu
+12Ngoại ngữ chuyên ngành
+13Lập trình Linux
+14Công nghệ đa phương tiện
+15Quản lý dự án công nghệ thông tin
+16Công nghệ thiết kế Web/Công nghệ thiết kế Wed nâng cao
+17Phần mềm nguồn mở/Phần mền nguồn mở nâng cao
+18Đồ án phần mền nguồn mở nâng cao
+19C# và môi trường .Net/C# Winform
+20Lập trình Java
+21Thiết kế kiến trúc phần mền
+22Đồ án thiết kế kiến trúc phần mền
+23Thiết kế giao diện và tương tác người máy
+24Bảo mật wed và ứng dụng
+25Công nghệ điện toán đám mây
+26Phát triển ứng dụng trên điện thoại di động
+27Đồ án phát triển ứng dụng trên điện thoại di động
+28Kiểm thử và đảm bảo chất lượng phần mền
+29Phân tích và thiết kế hệ thống thông tin nâng cao
+31Chuyên đề tổng hợp ngành CNTT
+32Hướng dẫn thực tập tốt nghiệm
+33Hướng dẫn đồ án tốt nghiệp
+Lãnh đạo bộ môn qua các thời kỳ:
+2001-2005
+PGS.TS Nguyễn Văn Nghiễm (Trưởng Bộ môn)
+GVC.ThS Vũ Trường Sơn (Phó Trưởng Bộ môn)
+2005-2009
+PGS.TS Nguyễn Văn Nghiễm (PGS: 2008) (Trưởng Bộ môn)
+GVC.ThS Vũ Trường Sơn (2005: chuyển BM THXD) (Phó Trưởng Bộ môn)
+T9/2009-T9/2011
+GV.ThS Phạm Hữu Tùng (TS: 2025) (Trưởng Bộ môn)
+GV.ThS Phan Hữu Trung (Phó Trưởng Bộ môn)
+T9/2011-T12/2012
+PGS.TS Nguyễn Văn Nghiễm (Trưởng Bộ môn)
+GV.ThS Phan Hữu Trung (Phó Trưởng Bộ môn)
+T1/2013-T3/2015
+GV.ThS Phan Hữu Trung (Trưởng Bộ môn)
+GV.ThS Nguyễn Hồng Hạnh (Phó Trưởng Bộ môn)
+T4/2015 đến nay
+GVC.TS Trần Khánh Dung (Trưởng Bộ môn)
+GV.ThS Phan Hữu Trung (Phó Trưởng Bộ môn)
+Liên hệ:
+Phòng 408, A1, trường Đại học Xây Dựng Hà Nội, 55 Giải Phóng - Hai Bà Trưng - Hà Nội 
+Điện thoại : (844) 3 869 14 61 
+Website: se.nuce.edu.vn
+Email:  bm.cnpm@nuce.edu.vn
+CÁN BỘ ĐƯƠNG NHIỆM: Sau hơn 10 năm xây dựng và phát triển đội ngũ, Bộ môn Công nghệ phần mềm gồm có 11 giảng viên chủ yếu là giảng viên trẻ, được đào tạo chính quy trong nước và nước ngoài, nhiệt tình, có kinh nghiệm thực tế và năng lực chuyên môn cao, đảm nhiệm công tác đào tạo và nghiên cứu tại Bộ môn. Đội ngũ cán bộ của Bộ môn đều có trình độ đại học trở lên, bao gồm:
+Phó Giáo sư : 01
+Tiến sĩ : 03
+Thạc sĩ : 07
+Danh sách cán bộ đương nhiệm:
+GVC.TS Trần Khánh Dung
+Trưởng bộ môn
+Email: dungtk@huce.edu.vn,
+PGS.TS Hoàng Nghĩa Tý
+Thỉnh viên
+Email: tyhn@huce.edu.vn,
+GVC.TS Phạm Hữu Tùng
+Giảng viên
+(Nguyên Phó trưởng phòng đào tạo)
+Email: tungph@huce.edu.vn,
+GV.ThS Phan Hữu Trung
+Phó trưởng bộ môn, Giảng viên
+Email: trungph@huce.edu.vn,
+GV.ThS Nguyễn Hải Dương
+Giảng viên
+Email: duongnh@huce.edu.vn,
+GV.ThS Nguyễn Thanh Bản
+Giảng viên
+Email: bannd@huce.edu.vn,
+GV.ThS Nguyễn Đình Anh
+Giảng viên
+Email: anhnd@huce.edu.vn,
+GV.ThS Lê Thị Hoàng Anh
+Giảng viên
+Email: anhlth@huce.edu.vn,
+GV.ThS Nguyễn Hồng Hạnh
+Giảng viên
+Email: hanhnt@huce.edu.vn,
+Gv.ThS Đào Thị Ngọc Hân
+Giảng viên
+Email: handtn@huce.edu.vn,
+KS. Đoàn Như Tùng
+tungdn@huce.edu.vn,
+KS. Lương Xuân Hiếu
+hieulx@huce.edu.vn.

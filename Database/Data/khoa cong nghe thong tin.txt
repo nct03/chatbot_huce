@@ -1,0 +1,69 @@
+ Giới thiệu khoa
+Khoa Công nghệ thông tin được thành lập theo Quyết định số 527/QĐ-BGD&ĐT-TCCB ngày 22/01/2001 của Bộ trưởng Bộ Giáo dục và Đào tạo trên cơ sở bộ môn Tin học và bộ môn Toán học. Tiền thân của bộ môn Tin học là bộ môn Phương pháp tính và Tự động hóa thiết kế được thành lập năm 1970. Đây là một trong những bộ môn đầu tiên về lĩnh vực Công nghệ thông tin của ngành giáo dục đại học. Bộ môn đã đóng góp tích cực và có hiệu qủa trong sự nghiệp bảo vệ và xây dựng Tổ quốc.
+Năm 1991, Trường Đại học Xây dựng Hà Nội mở ngành Tin học Xây dựng. Năm 2001, Bộ Giáo dục & Đào tạo ra Quyết định số 518/QĐ-BGD&ĐT/ĐH cho phép trường Đại học Xây dựng Hà Nội đào tạo đại học hệ chính quy ngành Công nghệ thông tin.
+ Cơ cấu tổ chức
+Ban chủ nhiệm Khoa
+TS. Lê Thị Thùy Dương - Phó trưởng khoa, Phụ trách khoa
+PGS.TS Phạm Đức Thoan - Phó Trưởng khoa
+Đội ngũ cán bộ
+Giảng viên: 64
+Nhân viên: 6
+Tiến sĩ: 11
+Thạc sĩ: 43
+Giảng viên chính: 3
+ Mục tiêu đào tạo
+Đào tạo kỹ sư Xây dựng chuyên ngành Tin học Xây dựng (ngành Kỹ thuật công trình) có năng lực cao trong lĩnh vực xây dựng và ứng dụng công nghệ thông tin trong lĩnh vực xây dựng, được trang bị đầy đủ kiến thức về chuyên môn cũng như kỹ năng mềm.
+Đào tạo kỹ sư Công nghệ thông tin có kiến thức cơ bản và nâng cao về lĩnh vực Công nghệ thông tin(CNTT), có kỹ năng chuyên môn và kỹ năng mềm, có khả năng làm việc độc lập và làm việc nhóm, có khả năng thích ứng với sự phát triển của công nghệ và môi trường công việc, đáp ứng nhu cầu nhân lực CNTT ngày càng cao trong tất cả các lĩnh vực của nền kinh tế.
+ Chương trình đào tạo
+Ngành Công nghệ thông tin:  gồm hai chuyên ngành là Công nghệ phần mềm và Mạng và Hệ thống thông tin. Sinh viên tốt nghiệp ngành này sẽ được cấp bằng Kỹ sư ngành Công nghệ thông tin. Sinh viên ra trường sẽ làm việc trong lĩnh vực sản xuất phần mềm phục vụ nền kinh tế quốc dân hoặc xuất khẩu phần mềm hay tham gia xây dựng, quản lý và điều hành các hệ thống thông tin của cơ quan và doanh nghiệp v.v.
+
+Chuyên ngành Công nghệ phần mềm (Software Engineering): Nội dung của chuyên ngành bao gồm những khái niệm cơ bản và các kiến thức nâng cao liên quan đến các phương pháp và công cụ trợ giúp phát triển phần mềm một cách hiệu quả, tin cậy và tiết kiệm. Sinh viên được trang bị kiến thức chuyên sâu về lĩnh vực Công nghệ phần mềm, bao gồm các kỹ thuật và công nghệ để: Thu thập, phân tích và tổng hợp yêu cầu về phần mềm từ người sử dụng; Thiết kế phần mềm; Phát triển phần mềm; Triển khai thực hiện và quản lý các dự án phát triển phần mềm, đáp ứng các yêu cầu kỹ thuật đặt ra trong điều kiện thực tế; Các kỹ thuật về đánh giá chi phí, đảm bảo chất lượng của phần mềm; Các kỹ thuật kiểm thử, bảo trì và xây dựng tài liệu kỹ thuật, tài liệu hướng dẫn sử dụng hệ thống;  Áp dụng tri thức Khoa học máy tính, quản lý dự án để nhận biết, phân tích và giải quyết sáng tạo và hiệu quả những vấn đề kỹ thuật trong lĩnh vực xây dựng và phát triển phần mềm máy tính v.v..
+Chuyên ngành Mạng và Hệ thống thông tin: Nội dung của chuyên ngành bao gồm những kiến thức, phương pháp và kỹ năng tập trung vào hai trọng tâm: Mạng hội tụ (Internet và mạng máy tính, mạng di động không dây, mạng cảm biến,...) và Hệ thống thông tin (hệ thống thông tin quản lý, hệ trợ giúp quyết định, hệ thống hạ tầng CNTT, an toàn bảo mật thông tin v.v..) 
+Chuyên ngành Tin học Xây dựng: Đào tạo kỹ sư với các chuyên ngành Tin học xây dựng dân dụng, Tin học xây dựng Cầu, Tin học xây dựng Đường, Tin học xây dựng Thủy lợi. Sinh viên được trang bị kiến thức cả về Tin học lẫn xây dựng cơ bản theo các chuyên ngành nêu trên. Sinh viên tốt nghiệp sẽ làm việc tại các công ty tư vấn, thiết kế, thi công xây dựng trên khắp đất nước hoặc tham gia và sản xuất, chuyển giao các phần mềm xây dựng.
+
+Ngành Khoa học máy tính: Đào tạo kỹ sư và cử nhân Ngành Khoa học Máy tính không chỉ có kiến thức chuyên sâu về Khoa học máy tính, có năng lực dẫn dắt và lãnh đạo các quá trình hình thành ý tưởng, thiết kế, triển khai và vận hành sản phẩm/hệ thống Công nghệ thông tin và Khoa học Máy tính; Có tư duy tầm hệ thống và có năng lực cao trong ứng dụng và phát triển công nghệ tiên tiến để đưa ra những giải pháp hiệu quả để tự động hóa các quy trình công việc hướng tới nền kinh tế số trong bối cảnh thế giới thay đổi nhanh và liên tục; Mà còn có khả năng hình thành ý tưởng, triển khai và vận hành các hệ thống xử lý tính toán phức tạp, các phần mềm có chất lượng khoa học và công nghệ cao.
+Chuyên ngành Tin học Xây dựng, ngành Kỹ thuật Xây dựng:
+
++ Chỉ tiêu tuyển sinh: 103 sv
+
++ Điểm trúng tuyển năm 2021: 23,00 điểm
+
++ Giới thiệu về ngành: https://bit.ly/3tQ1Fgj
+
+Ngành Khoa học Máy tính:
+
++ Chỉ tiêu tuyển sinh: 120 sv
+
++ Điểm trúng tuyển năm 2021: 25,00 điểm
+
++ Giới thiệu về ngành: https://bit.ly/39F73fs
+
+Ngành Công nghệ Thông tin
+
++ Chỉ tiêu tuyển sinh: 275 sv
+
++ Điểm trúng tuyển năm 2021: 25,35 điểm
+
++ Giới thiệu về ngành: https://bit.ly/3u9KzKL
+ Nghiên cứu khoa học
+Khoa Công nghệ Thông tin tập trung vào các hướng nghiên cứu trong lĩnh vực Tin học Xây dựng, Công nghệ Thông tin, Toán và Toán ứng dụng, bao gồm:
+
+Lĩnh vực Tin học Xây dựng:
+
+Nghiên cứu, phát triển các phần mềm xây dựng, các công nghệ mới như công nghệ B.I.M; nghiên cứu phát triển các phương pháp số để mô hình mô phỏng để xác định tính chất cơ lý của vật liệu xây dựng và ứng xử của kết cấu; nghiên cứu các công nghệ xây dựng mới, tiên tiến.
+Lĩnh vực Công nghệ thông tin: Tập trung vào các hướng nghiên cứu sau:
+
+Các phương pháp phân tích đặc tả và thiết kế các hệ thống thông tin (IS), và các hệ thống có kiến trúc hướng dịch vụ (SOA); Các kỹ thuật và công nghệ phát triển các hệ thống web-based, phần mềm nguồn mở, cloud computing; Các kỹ thuật và công nghệ phát triển phần mềm trong môi trường .Net; Các kỹ thuật và công nghệ mới để phát triển các ứng dụng trên thiết bị di động nền tảng Android, iOS; Các kỹ thuật và công nghệ trong Kỹ nghệ phần mềm như: Quản lý dự án phần mềm, Kiểm thử phần mềm, Đảm bảo chất lượng quy trình phát triển và đảm bảo chất lượng phần mềm v.v.
+An toàn bảo mật thông tin và an ninh mạng (Information Security & Network Security),  mô hình hóa; hệ thống (System Modeling); Hệ trợ giúp quyết định (Decision Support System);  Phương pháp phân tích thiết kế hệ thống (Methods of System analysis and design); Khai phá dữ liệu (Data Mining), Mạng thế hệ mới và mạng cảm biến không dây (NGN and wireless sensor network); Điện toán đám mây và điện toán di động (Cloud computing, mobile computing);
+Phát triển hệ thống nhúng, vi cơ điện tử; Kỹ thuật mạch số, Ảo hoá chức năng mạng trong xây dựng mạng truyền thông.
+Lĩnh vực Toán:
+
+Nghiên cứu lý thuyết phân bố giá trị của ánh xạ phân hình vào đa tạp phức; Ánh xạ Gauss của mặt cực tiểu; Các tính chất hình học không gian phức hyperbolic; Lý thuyết biểu diễn nhóm đại số; Phương pháp biến phân nghiên cứu sự tồn tại nghiệm yếu của bài toán biên elliptic; Logic mờ và tính toán thông minh trong lĩnh vực công nghệ thông tin…
+Lĩnh vực Toán ứng dụng:
+
+Nghiên cứu ứng dụng các phương pháp toán học hiện đại trong giải tích; xác suất thống kê; tối ưu  toán học; giải tích số; kết hợp các  phần mềm lập trình (C, Fortran,...), phần mềm ứng dụng (Mathematica, Matlab, Maple, ...)  giải số; mô phỏng; phân tích số liệu các bài  toán trong kỹ thuật.
+ Liên hệ
+Văn phòng Khoa Công nghệ thông tin, Phòng 410, Nhà A1, Trường Đại học Xây dựng Hà Nội, 55 Giải Phóng, Quận Hai Bà Trưng, Hà Nội
+Tel: 024. 3 869 79 40
+Email: fit@huce.edu.vn
+Website: https://fit.huce.edu.vn

@@ -16,9 +16,9 @@ model = AutoModel.from_pretrained("AITeamVN/Vietnamese_Embedding").to(device)
 def get_db_connection():
     try:
         conn = pyodbc.connect(
-            "DRIVER={SQL Server};"
+            "DRIVER={ODBC Driver 17 for SQL Server};"
             "SERVER=;"
-            "DATABASE=Chatbot;"
+            "DATABASE=chatbot;"
             "Trusted_Connection=yes;"
         )
         return conn
@@ -74,7 +74,7 @@ def rerank_chunks(query, chunks):
 
 def call_gpt_api(prompt):
     """Gọi API GPT để nhận phản hồi."""
-    api_key = ''
+    api_key = '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'
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"

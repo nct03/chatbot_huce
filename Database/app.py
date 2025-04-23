@@ -6,16 +6,30 @@ app = Flask(__name__)
 
 # DATABASE ===============================================================================
 # Hàm kết nối DB
+
 def get_db_connection():
-    server = ''
-    database = 'Chatbot'
-    username = ''
-    conn_str = f'DRIVER={{SQL Server}};SERVER={server};DATABASE={database};UID={username};Trusted_Connection=yes'
+    server = 'DESKTOP-Q0P583C'
+    database = 'chatbot'
+    username = 'DESKTOP-Q0P583C\PC'
+    conn_str = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};UID={username};Trusted_Connection=yes'
     return pyodbc.connect(conn_str)
 
-# Tạo bảng nếu chưa tồn tại
 conn = get_db_connection()
 cursor = conn.cursor()
+
+delete_chunk_query = '''
+IF OBJECT_ID('Chunks', 'U') IS NOT NULL
+BEGIN
+    DROP TABLE Chunks;
+END;
+'''
+
+delete_table_query = '''
+IF OBJECT_ID('Documents', 'U') IS NOT NULL
+BEGIN
+    DROP TABLE Documents;
+END;
+'''
 
 create_table_query = '''
 IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'Documents')
@@ -40,7 +54,8 @@ BEGIN
 
 END;
 '''
-
+cursor.execute(delete_chunk_query)
+cursor.execute(delete_table_query)
 cursor.execute(create_table_query)
 cursor.execute(create_chunks_table)
 conn.commit()

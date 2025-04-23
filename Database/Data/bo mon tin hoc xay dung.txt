@@ -1,0 +1,84 @@
+Giới thiệu chung về bộ môn và ngành Tin Học Xây Dựng:
+Ngành Tin Học Xây Dựng bắt đầu được triển khai đào tạo từ năm 1991, thuộc sự quản lý của Bộ môn Tin học, trực thuộc Khoa Cầu Đường. Khóa đào tạo đầu tiên là K36.
+Đến năm 2001, Khoa Công nghệ Thông tin được thành lập. Theo Quyết định số 497/2001/QĐ-TCCB, Bộ môn Tin học được tách thành hai bộ môn mới: Công nghệ Phần mềm và Kỹ thuật Hệ thống. Trong giai đoạn này, Bộ môn Công nghệ Phần mềm tiếp tục đảm nhiệm công tác đào tạo ngành Tin Học Xây Dựng.
+Ngày 10/01/2005, theo Quyết định số 10/2005/QĐ-TCCB của Hiệu trưởng Trường Đại học Xây dựng, Bộ môn Tin Học Xây Dựng chính thức được thành lập. Các thành viên sáng lập gồm: GVC. ThS Vũ Trường Sơn, GV. KS Lê Trọng Hòa, GVC. ThS Đào Tăng Kiệm, GV.KS Nguyễn Ngọc Châu, GV. ThS Hoàng Chính Nhân, GV. KTS Nguyễn Phú Quảng, GV Trần Anh Bình.
+Từ thời điểm này, bộ môn Tin Học Xây Dựng trực tiếp phụ trách công tác đào tạo ngành Tin Học Xây Dựng.
+Tính đến nay, hơn 1300 kỹ sư Tin học Xây Dựng đã tốt nghiệp, đóng ghóp đóng góp nguồn nhân lực có trình độ chuyên môn cao cho các lĩnh vực: thiết kế, quản lý dự án, lập trình ứng dụng, mô phỏng mô hình và ứng dụng CNTT trong xây dựng.
+Trong những năm gần đây, chương trình đào tạo ngành Tin học Xây dựng không ngừng cập nhật theo xu hướng công nghệ mới, nhằm đáp ứng nhu cầu ngày càng đa dạng của thị trường xây dựng hiện đại.
+Bên cạnh việc duy trì và nâng cao nền tảng kiến thức chuyên môn vững chắc về xây dựng, giúp sinh viên sẵn sàng tham gia thiết kế các công trình xây dựng dân dụng và công nghiệp, chương trình còn chú trọng phát triển các kỹ năng công nghệ tiên tiến, bao gồm:
+Mô hình thông tin công trình (BIM): Giúp sinh viên làm chủ công nghệ mô hình hóa, quản lý thông tin đồng bộ trong suốt vòng đời công trình – từ thiết kế, thi công đến vận hành.
+Trí tuệ nhân tạo (AI) và Phân tích dữ liệu lớn (Big Data): Ứng dụng trong tối ưu thiết kế, dự báo kết cấu – tải trọng, quản lý tiến độ, chất lượng thi công, và phát triển các giải pháp cho đô thị thông minh.
+Ngoài ra, sinh viên còn được trang bị các kỹ năng lập trình, phát triển phần mềm ứng dụng, mô phỏng số, quản lý hệ thống thông tin kỹ thuật, cùng các kỹ năng mềm về giao tiếp, làm việc nhóm và tư duy phản biện – tạo tiền đề vững chắc để phát triển sự nghiệp trong môi trường làm việc đa ngành, hiện đại và toàn cầu hóa.
+Các chuyên ngành:
+1Tin học Xây dựng Dân dụng và Công nghiệp
+2Tin học Xây dựng Cầu
+3Tin học Xây dựng Đường
+4Tin học Xây dựng Thủy Lợi
+Các môn học do bộ môn giảng dạy:
+1Các phần mềm ứng dụng 
+2Chuyên đề CAD 
+3Chuyên đề giới thiệu chuyên ngành THXD 
+4Công nghệ và ứng dụng mô hình thông tin BIM 
+5Công nghệ và ứng dụng mô hình thông tin BIM nâng cao 
+6Đồ án Công nghệ và ứng dụng mô hình thông tin BIM nâng cao 
+7Đồ án kế hoạch triển khai BIM 
+8Đồ án Lập trình ứng dụng trong xây dựng 
+9Đồ họa máy tính 
+10Kế hoạch triển khai BIM 
+11Lập trình phân tích kết cấu công trình 
+12Lập trình ứng dụng trong BIM 
+13Lập trình ứng dụng trong xây dựng 
+14Mô hình hoá và mô phỏng vật liệu xây dựng 
+15Ngôn ngữ lập trình 
+16Trí tuệ nhân tạo trong xây dựng 
+17Ứng dụng BIM trong KC thép 
+18Ứng dụng tin học trong thi công 
+19Xu hướng ứng dụng tin học trong xây dựng
+Lãnh đạo bộ môn qua các thời kỳ:
+2005-2009
+GVC.ThS Vũ Trường Sơn (Trưởng Bộ môn)
+GV.KS Lê Trọng Hòa (Phó Trưởng Bộ môn)
+2009- 2/2012
+GV.KS Lê Trọng Hòa (Trưởng Bộ môn)
+GVC.TS Dương Diệp Thúy (Phó Trưởng Bộ môn)
+3/2012- 3/2015
+PGS.TS. Trần Anh Bình (Trưởng Bộ môn)	
+GVC.TS Dương Diệp Thúy (Phó Trưởng Bộ môn)
+4/2015- 8/2018	
+GVC.ThS. Vũ Trường Sơn (Trưởng Bộ môn)
+GVC.TS Đỗ Quốc Hoàng (Phó Trưởng Bộ môn)
+8/2018 - 2019
+GVC.TS. Dương Diệp Thúy	(Trưởng Bộ môn)
+GVC.TS Đỗ Quốc Hoàng (Phó Trưởng Bộ môn)
+2019-nay
+GVC.TS. Dương Diệp Thúy	(Trưởng Bộ môn)
+GVC.TS Nguyễn Thị Hải Như (Phó Trưởng Bộ môn)
+Danh sách các cán bộ đương nhiệm:
+GVC.ThS Vũ Trường Sơn
+Giảng viên (Nguyên trưởng bộ môn,  Nguyên Trưởng khoa, Nguyên Đảng ủy viên)
+Email: sonvt@huce.edu.vn,
+PGS. TS. Trần Anh Bình
+Giảng viên (Nguyên Trưởng khoa CNTT, Nguyên Bí thư Chi bộ khoa CNTT, Nguyên Trưởng Bộ môn Tin Học Xây Dựng)
+Viện Trưởng Viện Tin học Xây dựng
+Email: binhta@huce.edu.vn,
+GVC.TS Dương Diệp Thúy
+Trưởng bộ môn
+Email: thuydd@huce.edu.vn,
+GVC.TS Nguyễn Thị Hải Như
+Phó Trưởng bộ môn
+Email: nhunth@huce.edu.vn,
+GVC.TS Đỗ Quốc Hoàng
+Giảng viên (Nguyên Trưởng phòng Thông tin và truyền thông)
+Email: hoangqd@huce.edu.vn,
+GV.TS Nguyễn Mạnh Tuấn
+Giảng viên
+Email: tuannm@huce.edu.vn,
+GV.ThS Phạm Văn Hoàn
+Giảng viên
+Email: hoanpv@huce.edu.vn,
+GV.ThS. Trần Tiến Đạt
+Giảng viên (NCS tại Nhật Bản)
+Email: dattt@huce.edu.vn,
+GV.ThS Nguyễn Văn Hải
+Giảng viên
+Email: hainv@huce.edu.vn.

@@ -1,0 +1,48 @@
+Giới thiệu chung:
+Tiền thân là phòng Thực hành tin học (thành lập năm 2001), bộ môn Kỹ thuật Máy tính được thành lập ngày 10/01/2008 (theo quyết định số 38/QĐ-TCCB) với định hướng phát triển chuyên sâu chuyên môn về phần cứng máy tính và phần mềm hệ thống máy tính cho sinh viên Khoa CNTT. Ngay sau khi thành lập, mục tiêu này được triển khai ban đầu cho cả hai ngành: Công nghệ Thông tin và Tin học Xây dựng thông qua việc phát triển, duy trì hoạt động giảng dạy, nghiên cứu khoa học và hướng dẫn sinh viên NCKH hay tham gia các kỳ thi chuyên môn về An toàn thông tin, An ninh mạng và Microsoft Office World Champion. Ngoài ra, bộ môn tiếp tục quản lý cơ sở vật chất, đảm bảo kỹ thuật phần cứng, phần mềm hệ thống, phần mềm ứng dụng, mạng cục bộ, mạng giảng dạy đa phương tiện của 5 phòng máy có trên 300 máy tính; tổ chức thực hành, học, thi trên máy tính cho sinh viên thuộc các loại hình đào tạo của Trường: chính qui, sau đại học, chất lượng cao, tại chức.
+Danh sách các môn học bộ môn đã và đang phụ ​trách: 
+1Kỹ thuật Số
+2Xử lý Số tín hiệu
+3Hệ điều hành
+4Kiến trúc Máy tính
+5Vi xử lý 1
+6Vi xử lý 2
+7Lập trình hệ thống
+8Lập trình trên môi trường Windows
+9Lập trình ứng dụng cho kĩ thuật
+10Thực hành Tin học 1
+11Thực hành Tin học 1
+12Tham quan và thực hành
+13Công nghệ thông tin cơ bản
+14Tin học đại cương
+15Các môn học thuộc chuyên ngành CNĐPT
+Cho đến tháng 07/2021, có 08 cán bộ đang công tác tại bộ môn và văn phòng khoa, trong đó có 01 Giảng viên chính đang làm NCS, 01 CBGD mới tuyển đã là TS, 03 cán bộ đã nghỉ hưu. Sau một thời gian điều chuyển CB phục vụ phòng máy về Trung tâm CNTT&CSDL, hiện tại (tháng 03/2025), tập thể cán bộ công tác tại Bộ môn tựu trung lại có 06 CBGD (trong đó, 1 CBGD kiêm nhiệm 30%) và 05 cán bộ đã nghỉ hưu.
+Từ năm 2001 đến nay, Phòng THTH và Bộ môn luôn được Nhà Trường công nhận Tập thể Lao động xuất sắc, Lao động tiên tiến. Đặc biệt, ghi nhận những đóng góp của Bộ môn trong công tác giảng dạy và công tác quản lý, phát triển phòng Thực hành tin học, năm học 2009-2010, 2010-2011 Bộ môn được Bộ GD&ĐT công nhận là Tập thể Lao động xuất sắc cấp Bộ. Có 02 CBGD được Bộ trưởng Bộ GD và ĐT tặng bằng khen.
+Một số công việc bộ môn đã đóng góp cho sự phát triển của Nhà Trường, Khoa:
+Tham gia đảm nhiệm quản lý, phát triển hệ thống phần mềm Quản lý hệ thống tín chỉ, đảm bảo kỹ thuật phần cứng, phần mềm, mạng máy tính cho hệ thống đào tạo của Phòng Đào tạo và tất cả các khoa đào tạo sinh viên chính quy, tại chức trong trường. Hệ thống hoạt động hiệu quả, đáp ứng được nhiều yêu cầu đào tạo trong Trường. 
+Từ năm 2004 đến 2016, tham gia thiết kế, đảm bảo kỹ thuật, phát triển cho hệ thống mạng máy tính toàn trường và đảm nhiệm phụ trách Ban quản lý tài nguyên thông tin. Thêm vào đó, Bộ môn có CBGD tham gia công tác Tuyển sinh của Nhà trường trong nhiều năm. Phát triển hệ thống phần mềm xử lý điểm tuyển sinh hiệu quả, đảm bảo kết quả chính xác.
+Hàng năm, tham gia công tác tuyển viên chức, trong đó, các khâu: ra đề thi, xây dựng đáp án, đảm bảo kỹ thuật cho máy tính, mạng trên các phòng máy tính, chấm thi,  đều được Bộ môn và phòng THTH đảm nhiệm với kết quả tốt.
+Ngoài công tác đảm bảo vận hành tốt các phòng máy phục vụ đào tạo, Bộ môn và Phòng THTH thực hiện và triển khai tốt các kỹ thuật đảm bảo máy tính cho các cuộc thi Olympic Cơ học Toàn quốc (2013) tại Phòng THTH, Thi tìm hiểu về Đoàn TNCS HCM cấp toàn quốc do Trung Ương Đoàn tổ chức tại Trung tâm hội nghị Quốc Gia Mỹ Đình (2017) và nhiều cuộc thi khác của Nhà trường.
+Trong xu thế phát triển chung của Khoa Công nghệ Thông tin, Bộ môn tham gia đóng góp chuyên môn vào công tác xây dựng và giảng dạy ngành Khoa học Máy tính mới thành lập. Đặc biệt, các CBGD của Bộ môn đóng vai trò nòng cốt trong đề xuất mở chuyên ngành đào tạo mới là Công nghệ Đa phương tiện, tuyển sinh năm 2024 với 2 lớp, đều có điểm chuẩn thuộc nhóm cao trong toàn trường.
+Về công tác giảng dạy, qua nhiều năm, Bộ môn phụ trách nhiều môn học chuyên môn và các môn học đại cương. Bộ môn có tiềm năng trong phát triển chuyên môn trong các lĩnh vực nghiên cứu về phát triển phần cứng, điều khiển hệ thống máy tính, hệ thống nhúng cũng như phát triển chuyên sâu về xử lý số tín hiệu, truyền thông và các lĩnh vực trong công nghệ đa phương tiện.
+Danh sách các cán bộ đang công tác tại bộ môn:
+GVC.ThS. Bùi Thanh Hương
+Phó Trưởng BM,
+GVC.ThS Bùi Thanh Hương
+Giảng viên, (nguyên Chi ủy viên, nguyên Chủ tịch công đoàn khoa CNTT)
+Email: huongbt@huce.edu.vn,
+GV. ThS Vương Thị Dung
+Giảng viên (Kiêm nghiệm 30%)
+Email: dungvt@huce.edu.vn,
+GV.ThS Dương Kiêm Thanh
+Giảng viên
+Email: thanhdk@huce.edu.vn,
+KS Bùi Thị Phương Mỹ
+Trợ giảng
+Email: mybtp@huce.edu.vn,
+KS Nguyễn Việt Anh
+Trợ giảng
+Email: anhnv2@huce.edu.vn,
+GV.ThS Đỗ Hoàng Kiên
+Giảng viên
+Email: kiendh@huce.edu.vn,

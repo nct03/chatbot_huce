@@ -74,7 +74,7 @@ def rerank_chunks(query, chunks):
     return top_chunks
 
 def call_gpt_api(prompt):
-    api_key = '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'
+    api_key = ''
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"

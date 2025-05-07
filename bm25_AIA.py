@@ -10,8 +10,8 @@ from flask_cors import CORS
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Load AIA - Vietnamese embedding
-tokenizer = AutoTokenizer.from_pretrained("AITeamVN/Vietnamese_Embedding")
-model = AutoModel.from_pretrained("AITeamVN/Vietnamese_Embedding").to(device)
+tokenizer = AutoTokenizer.from_pretrained("Vietnamese_Embedding/tokenizer")
+model = AutoModel.from_pretrained("Vietnamese_Embedding/model").to(device)
 
 def get_db_connection():
     try:
@@ -59,8 +59,8 @@ def load_chunks_by_documents(doc_ids):
         return []
 
 def rerank_chunks(query, chunks):
-    rerank_tokenizer = AutoTokenizer.from_pretrained("itdainb/PhoRanker")
-    rerank_model = AutoModelForSequenceClassification.from_pretrained("itdainb/PhoRanker").to("cuda" if torch.cuda.is_available() else "cpu")
+    rerank_tokenizer = AutoTokenizer.from_pretrained("PhoRanker/tokenizer")
+    rerank_model = AutoModelForSequenceClassification.from_pretrained("PhoRanker/model").to("cuda" if torch.cuda.is_available() else "cpu")
     
     inputs = [query + " [SEP] " + chunk.chunk_text for chunk in chunks]
     tokenized_inputs = rerank_tokenizer(inputs, padding=True, truncation=True, return_tensors="pt").to(model.device)
@@ -68,7 +68,7 @@ def rerank_chunks(query, chunks):
     with torch.no_grad():
         scores = rerank_model(**tokenized_inputs).logits.squeeze(-1).cpu().numpy()
     
-    ranked_indices = np.argsort(scores)[::-1][:10]  # Chọn 10 chunk có điểm cao nhất
+    ranked_indices = np.argsort(scores)[::-1][:50]  # Chọn tất cả chunk
     top_chunks = [chunks[i] for i in ranked_indices]
     return top_chunks
 
@@ -104,10 +104,13 @@ def chat():
     data = request.get_json()
     if not data:
         return jsonify({"error": "No JSON received"}), 400
-
+    
     query = data.get("query")
     if not query:
         return jsonify({"error": "No query provided"}), 400
+
+    if query and query[0].isalpha():
+        query = query[0].upper() + query[1:]
         
     documents = load_documents()
 
@@ -127,7 +130,7 @@ def chat():
         query_embedding = torch.mean(model(**tokens).last_hidden_state, dim=1).squeeze(0).cpu().numpy()
     query_embedding = query_embedding / np.linalg.norm(query_embedding)
 
-    # Nhúng 10 tài liệu bằng AIA
+    # Nhúng 20 tài liệu bằng AIA
     doc_embeddings = []
     for doc in relevant_docs:
         tokens = tokenizer(doc.content, padding=True, truncation=True, max_length=256, return_tensors="pt").to(device)
